@@ -1,5 +1,5 @@
 <p align="center">
- <img src=" https://qph.cf2.quoracdn.net/main-qimg-62be9fb6e1d7166e9cbeeed913096752" height="250" width="250">  </p>
+ <img src="https://venturebeat.com/wp-content/uploads/2015/12/oracle-java-e1450723340931.jpg?w=1200&strip=all" height="250" width="250">  </p>
  <h1 align="center">Pyyne Bank Challenge</h1>
 <p align="center">
 </p>
