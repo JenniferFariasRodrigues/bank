@@ -37,7 +37,7 @@ Select the option "JUnit Test".
 
 ---
 ### Output
-The expected test coverage is 98.4% and the expected project output is:
+The expected unit test coverage is 98.4% and the expected project output is:
 ```bash
 ========BANK BALANCES========
 
