@@ -35,7 +35,7 @@ Select the option "JUnit Test".
 
 ---
 ### Output
-The output expect is:
+The expected test coverage is 98.4% and the expected project output is:
 ```bash
 ========BANK BALANCES========
 
@@ -75,4 +75,4 @@ Bank amount: 800.0
 
 ```
 
----
+
