@@ -14,7 +14,7 @@ import com.adapter.AdapterBank2Transaction;
 
 /**
  * Created by Jennifer Rodrigues in November 2022.
- * In the TransactionService class are the user 
+ * In the TransactionBankService class are the user 
  * requests in the Balance interface and also the 
  * business logic part.
  */
