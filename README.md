@@ -12,6 +12,9 @@ $ https://github.com/JenniferFariasRodrigues/pyyne-challenge-bank.git
 
 # Access
 $ cd pyyne
+
+# Run the project
+$
 ```
 ---
 
