@@ -11,7 +11,7 @@ import com.domain.Balance;
 
 /**
  * Created by Jennifer Rodrigues in November 2022.
- * In the BankService class are the user requests 
+ * In the BalanceBankService class are the user requests 
  * in the Balance interface and also the business 
  * logic part.
  */
