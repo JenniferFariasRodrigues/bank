@@ -14,8 +14,12 @@ $ git clone https://github.com/JenniferFariasRodrigues/pyyne-challenge-bank.git
 On the IDE Eclipse select the option "Import projects from system"
 
 # Choose folder in IDE and run the project
-Click on  "main_application" folder and choose Main.java
-Click on the grren icon same the picture or click in "Run" on the Windoew.
+Click on  "main_application" folder and choose "Main.java" class.
+Click on "Run" in the Window.
+
+# Run unit tests
+On a project folder(pyyne_bank_challenge) Click on "Run" and after in " Run as". 
+Select the option "JUnit Test".
 
 ```
 ---
