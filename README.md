@@ -12,13 +12,13 @@ Backend bank aggregation application using Java language and Junit framework for
 $ git clone https://github.com/JenniferFariasRodrigues/pyyne-challenge-bank.git
 
 # Access on Eclipse IDE
-On the IDE Eclipse select the option "Import projects from system"
+On the IDE Eclipse select the option "Import projects from system" and select the project on folder.
 
 # Choose folder in IDE and run the project
 Click on  "main_application" folder and choose "Main.java" class.
 Click on "Run" in the Window.
 
-# Run unit tests
+# Run unit tests on Eclipse IDE
 On a project folder(pyyne_bank_challenge) Click on "Run" and after in " Run as". 
 Select the option "JUnit Test".
 
