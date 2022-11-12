@@ -21,7 +21,7 @@ The challenge here is that we don’t want the BankController to ever directly u
 $ git clone https://github.com/JenniferFariasRodrigues/pyyne-challenge-bank.git
 
 # Access on Eclipse IDE
-On the IDE Eclipse choose the option "Import projects". On the folder "General" choose "Existing Projects into workspace" and choose the project on folder.
+On the IDE Eclipse choose the option "Import projects". On the folder "General" choose "Existing Projects into workspace" and choose the project on the selected folder.
 
 # Choose folder in IDE and run the project
 Click on  "main_application" folder and choose "Main.java" class.
