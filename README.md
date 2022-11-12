@@ -25,7 +25,47 @@ Select the option "JUnit Test".
 ```
 
 ---
+### Output
+```bash
+========BANK BALANCES========
 
+Currency: USD
+Balance: 215.5
+-------------------------------
+Currency: USD
+Balance: 512.5
+-------------------------------
+
+=======BANK TRANSACTIONS=======
+
+Bank type: DEBIT
+Transaction description: Check deposit
+Bank amount: 100.0
+-------------------------------
+Bank type: CREDIT
+Transaction description: Debit card purchase
+Bank amount: 25.5
+-------------------------------
+Bank type: CREDIT
+Transaction description: Rent payment
+Bank amount: 225.0
+-------------------------------
+Bank type: CREDIT
+Transaction description: Amazon.com
+Bank amount: 125.0
+-------------------------------
+Bank type: CREDIT
+Transaction description: Car insurance
+Bank amount: 500.0
+-------------------------------
+Bank type: DEBIT
+Transaction description: Salary
+Bank amount: 800.0
+-------------------------------
+
+```
+
+---
 ### Description 
 ---
  The idea is to create a simple bank aggregation application that pulls information from multiple different banks and displays it. At the link, you can download some skeleton code in Java, that we put together to base the solution on.
