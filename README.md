@@ -11,7 +11,7 @@ Backend bank aggregation application using Java language and Junit framework for
 $ https://github.com/JenniferFariasRodrigues/pyyne-challenge-bank.git
 
 # Access
-$ cd pyyne
+$ cd pyyne/main_application
 
 # Run the project
 $
