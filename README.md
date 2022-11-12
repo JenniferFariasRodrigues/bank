@@ -8,7 +8,7 @@ Backend bank aggregation application using Java language and Junit framework for
 ### Starting
 ```bash
 # Clone this project
-$ https://github.com/JenniferFariasRodrigues/pyyne-challenge-bank.git
+$ git clone https://github.com/JenniferFariasRodrigues/pyyne-challenge-bank.git
 
 # Access
 $ cd pyyne/main_application
