@@ -50,27 +50,27 @@ Balance: 512.5
 
 =======BANK TRANSACTIONS=======
 
-Bank type: DEBIT
+Bank type: CREDIT
 Transaction description: Check deposit
 Bank amount: 100.0
 -------------------------------
-Bank type: CREDIT
+Bank type: DEBIT
 Transaction description: Debit card purchase
 Bank amount: 25.5
 -------------------------------
-Bank type: CREDIT
+Bank type: DEBIT
 Transaction description: Rent payment
 Bank amount: 225.0
 -------------------------------
-Bank type: CREDIT
+Bank type: DEBIT
 Transaction description: Amazon.com
 Bank amount: 125.0
 -------------------------------
-Bank type: CREDIT
+Bank type: DEBIT
 Transaction description: Car insurance
 Bank amount: 500.0
 -------------------------------
-Bank type: DEBIT
+Bank type: CREDIT
 Transaction description: Salary
 Bank amount: 800.0
 -------------------------------
