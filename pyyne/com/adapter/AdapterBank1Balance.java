@@ -9,7 +9,7 @@ import com.domain.Balance;
  * the data through inheritance or interface. I developed the project using the
  * interface pattern due to standardization and clarity throughout the project.
  */
-public class AdapterBank1Balance implements AdapterBalance {
+public class AdapterBank1Balance implements AdapterBalance 	{
 	private String balanceData;
 	private double valueData;
 

@@ -9,7 +9,7 @@ import org.junit.Test;
 
 import com.domain.Balance;
 import com.pyyne.challenge.bank.BankController;
-import com.services.BalanceBankService;
+import com.service.BalanceBankService;
 
 /**
  * Created by Jennifer Rodrigues in November 2022. 

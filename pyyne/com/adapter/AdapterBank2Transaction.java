@@ -33,9 +33,10 @@ public class AdapterBank2Transaction implements TransactionInterface {
 	private Transaction convert(Bank2AccountTransaction bank2Transaction) {
 		Transaction.TYPE type;
 		if (bank2Transaction.getType() == Bank2AccountTransaction.TRANSACTION_TYPES.CREDIT) {
-			type = Transaction.TYPE.DEBIT;
-		} else {
 			type = Transaction.TYPE.CREDIT;
+
+		} else {
+			type = Transaction.TYPE.DEBIT;
 		}
 		Transaction transaction = new Transaction(bank2Transaction.getAmount(), type, bank2Transaction.getText());
 		return transaction;

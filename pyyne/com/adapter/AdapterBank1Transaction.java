@@ -31,7 +31,7 @@ public class AdapterBank1Transaction implements TransactionInterface {
 
 	private Transaction convert(Bank1Transaction bank1Transaction) {
 		Transaction.TYPE type;
-		if (bank1Transaction.getType() == 1) {
+		if (bank1Transaction.getType() == 2) {
 			type = Transaction.TYPE.DEBIT;
 		} else {
 			type = Transaction.TYPE.CREDIT;

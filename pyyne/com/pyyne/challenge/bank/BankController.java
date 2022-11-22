@@ -5,8 +5,8 @@ import java.util.Objects;
 
 import com.domain.Balance;
 import com.domain.Transaction;
-import com.services.BalanceBankService;
-import com.services.TransactionBankService;
+import com.service.BalanceBankService;
+import com.service.TransactionBankService;
 
 /**
  * Controller that pulls information form multiple bank integrations and prints
