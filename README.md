@@ -20,17 +20,17 @@ The challenge here is that we don’t want the BankController to ever directly u
 ### Starting
 ```bash
 # Clone this project
-$ git clone https://github.com/JenniferFariasRodrigues/pyyne-challenge-bank.git
+$ git clone https://github.com/JenniferFariasRodrigues/bank.git
 
 # Access on Eclipse IDE
-On the IDE Eclipse choose the option "Import projects". On the folder "General" choose "Existing Projects into workspace" and choose  pyyne-challenge-bank folder.
+On the IDE Eclipse choose the option "Import projects". On the folder "General" choose "Existing Projects into workspace" and choose  bank folder.
 
 # Choose folder in IDE and run the project
 Click on  "main_application" folder and choose "Main.java" class.
 Click on "Run" in the Window.
 
 # Run unit tests on Eclipse IDE
-On a project folder(pyyne_bank_challenge) Click on "Run" and " Run as". 
+On a project folder(bank) Click on "Run" and " Run as". 
 Select the option "JUnit Test".
 
 ```
